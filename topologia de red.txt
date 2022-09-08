@@ -1,0 +1,19 @@
+topologia de red
+
+web servers
+
+ npm install typescript
+ npx tsc --init 
+
+ git init
+ git add .
+ git commit -m "fist"
+ git remote add origin url 
+
+git pull origin master
+
+
+index.ts:
+npm install express
+
+npx tsc 
